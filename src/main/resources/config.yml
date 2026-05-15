@@ -1,0 +1,9 @@
+rod-stasis:
+  break-rod-on-recall: false
+  keep-plate-lit-ticks: 20
+  activate-trapdoor: true
+  hook-settle-speed: 0.005
+
+pearl-persistence:
+  enabled: true
+  save-interval-ticks: 20

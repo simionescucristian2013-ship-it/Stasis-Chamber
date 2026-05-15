@@ -1,0 +1,10 @@
+name: RodStasis
+version: ${version}
+main: com.totemstasis.plugin.TotemStasisPlugin
+api-version: "1.21"
+author: Codex
+description: Fishing rod stasis and persistent ender pearls for stasis chambers.
+permissions:
+  totemstasis.use:
+    description: Allows using rod stasis and persistent pearls.
+    default: true
